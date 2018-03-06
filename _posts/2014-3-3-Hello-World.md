@@ -1,10 +1,23 @@
----
-layout: post
-title: You're up and running!
----
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Title
+Week 1
+Date
+15/01/18
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Starting point:
+Learning to use Fuze basics
+Target for this lesson?
+Beginning and progressing in the Fuze booklets
+Did I reach my target? 
+(add details to “Lesson Review”)
+ Yes, I successfully used Fuze editor on the example “Hello World” and developed my learning on the fuze box.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+Lesson Review
+How did I learn? What strategies were effective? 
+I learned how to make a repeat cycle with a coloured background. This happened because my partner and I work successfully together, swapping pilot and navigator regularly. We used the booklet, learning code and advancing on 
+What limited my learning? Which habits do I need to work on? 
+What limited my learning was that we took time to get started because we didn’t understand it but one of our peers helped us and got us going. I need to work on communicating more to my partner although we did make progress, I feel that we could of had more. In all fairness, our fuze box stopped working half-way through the lesson.
+What will I change for next time? How will I improve my learning?
+I will change my role and be more of a leader, communicating more with my partner and working at a faster pace. I will improve my learning by getting more done in the lesson, to do this I have to be more organised and faster at setting up the fuze box because we had problems half-way through.
+
