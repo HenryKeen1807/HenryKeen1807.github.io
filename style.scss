@@ -13,29 +13,32 @@
 /* BASE RULES */
 /**************/
 
+body {
+    background-image: url("https://wallpaperscraft.com/image/abstraction_passage_light_black_blue_413_1920x1080.jpg");
+}
+
 html {
-  font-size: 100%;
+  font-size: 110%;
 }
 
 body {
-	background-image: url("http://www.powerpointhintergrund.com/uploads/abstract-technology-background-3.jpg");
-  font: 18px/1.4 $helvetica;
-  color: #ff0000;
+  color: #0000ff;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+  max-width: 700px;
+  padding: 50 30px;
+  width: 60%;
+ 
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
+  font-family: Sansserif;
+  color: #ffffff;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.5;
   margin: 1em 0 15px;
   padding: 0;
 
@@ -61,7 +64,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #ffffff;
 }
 
 p {
@@ -69,11 +72,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #ffffff;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #ffffff;
   }
 }
 
@@ -95,11 +98,11 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: circle;
+  list-style-type: square;
 }
 
 em, i {
-  font-style: italic;
+  font-style: comic sans;
 }
 
 strong, b {
@@ -117,7 +120,7 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #CC3333;
 }
 
 // Specify the color of the selection
@@ -126,7 +129,7 @@ img {
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: #ffA500;
   background: $lightGray;
 }
 
@@ -142,20 +145,50 @@ img {
     clear: both;
 }
 
+
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
 
-//
-// .masthead
-//
+
+
+table {
+border-collapse: collapse;
+width: 89%;
+}
+
+table, th, td {
+border: 3px solid white;
+background-color:#FF0033;
+opacity: 0.7;
+    filter: alpha(opacity=70); /* For IE8 and earlier */
+}
+
+td {
+vertical-align: middle; 
+padding: 10px;
+}	
+
+th {
+color: white;
+background: #233237;
+height:50px;
+vertical-align: middle;
+}
+	
+
+p.one {
+    border-style: dotted;
+    border-color: red;
+	border-radius: 5px;
+}
 
 .wrapper-masthead {
   margin-bottom: 50px;
 }
 
 .masthead {
-  padding: 20px 0;
+  padding: 40px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -165,18 +198,18 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 100px;
+  height: 100px;
   margin-right: 15px;
 
   @include mobile {
-    float: none;
+    float: middle;
     display: block;
     margin: 0 auto;
   }
 
   img {
-    border-radius: 5px;
+    border-radius: 3px;
   }
 }
 
@@ -192,7 +225,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #ffffff;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -202,7 +235,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #ffffff;
   font-size: 16px;
 
   @include mobile {
@@ -225,7 +258,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #ffffff;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -242,24 +275,28 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: 4em;
+  border-bottom: 10px solid $lightGray;
 }
 
 .posts > .post:last-child {
   padding-bottom: 1em;
-  border-bottom: none;
+  border-bottom: 10px;
 }
 
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
-    padding: 0.1em 1em;
+    border-left: 4px solid $gray;
+    padding: 1em 2em;
     color: $gray;
     font-size: 22px;
     font-style: italic;
+	  div {
+    
+}
   }
+
 
   .comments {
     margin-top: 10px;
