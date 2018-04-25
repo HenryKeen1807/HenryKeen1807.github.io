@@ -19,6 +19,9 @@ html {
 
 body {
 	background-image: url("https://t4.ftcdn.net/jpg/01/30/41/43/240_F_130414382_O4tDxNpAVIBnCwOzI6YT3fiPSplEHbLW.jpg");
+	  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
   font: 18px/1.4 $helvetica;
   color: #5d9685;
 }
