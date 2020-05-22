@@ -6,4 +6,4 @@ permalink: /about/
 
 ### Contact me
 
-[hjk23a@bradfielcollege.org.uk](mailto:hjk23a@bradfieldcollege.org.uk)
+[hjk23a@bradfieldcollege.org.uk](mailto:hjk23a@bradfieldcollege.org.uk)
