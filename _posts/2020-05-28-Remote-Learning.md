@@ -18,6 +18,6 @@ published: true
 </table>
 <table>
   <tr>
-    <td>I have added an image, put two pages together with a link, a background and containers both having a gradient and being translucent. Overall, this website has been very successful in my opinion and did not take that long to create. There are not many more features I can inculde to better this website. <iframe src="https://www.fia.uk.com/uploads/assets/e414d9b7-217c-4e18-84217e7f5d3d3014/image810x329_b89b2cfb71236ee94bab9f96ad3e2b60/iStock-848924858.jpg" width="760" height="380"></iframe>   </td>
+    <td>I have added an image, put two pages together with a link, a background and containers both having a gradient and being translucent. Overall, this website has been very successful in my opinion and did not take that long to create. There are not many more features I can inculde to better this website. <iframe src="https://www.fia.uk.com/uploads/assets/e414d9b7-217c-4e18-84217e7f5d3d3014/image810x329_b89b2cfb71236ee94bab9f96ad3e2b60/iStock-848924858.jpg" width="790" height="380"></iframe>   </td>
   </tr>
 </table>
