@@ -1,32 +1,14 @@
 ---
-title: Blog 7
+title: Remote Learning
 layout: post
 author: henry.keen
-permalink: /blog-7/
+permalink: /Remote-Learning/
 source-id: 1cRNWh64CCg5vNpcpoNGb_KRcVWpYgg_fo6Y_nKEyeYw
 published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>Week 7</td>
-    <td>Date</td>
-    <td>28/06/18</td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td>Starting point:</td>
-    <td>To start using codecademy to learn Python.</td>
-  </tr>
-  <tr>
-    <td>Target for this lesson?</td>
-    <td>To have understand and use Python.</td>
-  </tr>
-  <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td> Yes I started to learn and understand Python.</td>
+    <td>28/05/20</td>
   </tr>
 </table>
 <table>
