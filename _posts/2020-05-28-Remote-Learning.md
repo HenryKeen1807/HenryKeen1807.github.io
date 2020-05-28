@@ -8,7 +8,7 @@ published: true
 ---
 <table>
   <tr>
-    <td>28/05/20</td>
+    <td>Remote Learning Website            28/05/20</td>
   </tr>
 </table>
 <table>
