@@ -18,6 +18,6 @@ published: true
 </table>
 <table>
   <tr>
-    <td>I have added an image, put two pages together with a link, a background and containers both having a gradient and being translucent. Overall, this website has been very successful in my opinion and did not take that long to create. There are not many more features I can inculde to better this website. <iframe src="https://www.servicedeskinstitute.com/wp-content/uploads/2018/10/eLearning.jpg" width="770" height="380"></iframe>   </td>
+    <td>I have added an image, put two pages together with a link, a background and containers both having a gradient and being translucent. Overall, this website has been very successful in my opinion and did not take that long to create. There are not many more features I can inculde to better this website. <iframe src="https://www.servicedeskinstitute.com/wp-content/uploads/2018/10/eLearning.jpg" width="565" height="310"></iframe>   </td>
   </tr>
 </table>
